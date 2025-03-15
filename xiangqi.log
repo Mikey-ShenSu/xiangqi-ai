@@ -1,0 +1,126 @@
+2025-03-14 11:02:45,229 - DEBUG - matplotlib data path: /Users/mikey/Ramdon Projects/xiangqi-ai/.conda/lib/python3.11/site-packages/matplotlib/mpl-data
+2025-03-14 11:02:45,239 - DEBUG - CONFIGDIR=/Users/mikey/.matplotlib
+2025-03-14 11:02:45,241 - DEBUG - interactive is False
+2025-03-14 11:02:45,241 - DEBUG - platform is darwin
+2025-03-14 11:02:45,278 - DEBUG - CACHEDIR=/Users/mikey/.matplotlib
+2025-03-14 11:02:45,280 - DEBUG - Using fontManager instance from /Users/mikey/.matplotlib/fontlist-v390.json
+2025-03-14 11:02:45,401 - INFO - PyTorch device available: cpu
+2025-03-14 11:02:48,428 - INFO - AlphaZero pipeline initialized
+2025-03-14 11:02:48,428 - INFO - Starting training for 10 iterations
+2025-03-14 11:02:48,428 - INFO - Self-play games per iteration: 5000
+2025-03-14 11:02:48,428 - INFO - Training epochs per iteration: 100
+2025-03-14 11:02:48,428 - INFO - Evaluation games per iteration: 100
+2025-03-14 11:02:48,428 - INFO - Starting AlphaZero training for 10 iterations
+2025-03-14 11:02:48,428 - INFO - No existing model found, starting with a new model
+2025-03-14 11:02:48,428 - INFO - Starting iteration 1 at 20250314_110248
+2025-03-14 11:02:48,428 - INFO - Starting self-play for 5000 games
+2025-03-14 11:02:48,428 - INFO - Pipeline components initialized
+2025-03-14 11:02:48,428 - INFO - Generating 5000 self-play games...
+2025-03-14 11:04:36,051 - DEBUG - matplotlib data path: /Users/mikey/Ramdon Projects/xiangqi-ai/.conda/lib/python3.11/site-packages/matplotlib/mpl-data
+2025-03-14 11:04:36,055 - DEBUG - CONFIGDIR=/Users/mikey/.matplotlib
+2025-03-14 11:04:36,056 - DEBUG - interactive is False
+2025-03-14 11:04:36,056 - DEBUG - platform is darwin
+2025-03-14 11:04:36,078 - DEBUG - CACHEDIR=/Users/mikey/.matplotlib
+2025-03-14 11:04:36,079 - DEBUG - Using fontManager instance from /Users/mikey/.matplotlib/fontlist-v390.json
+2025-03-14 11:04:36,188 - INFO - PyTorch device available: cpu
+2025-03-14 11:04:36,728 - INFO - AlphaZero pipeline initialized
+2025-03-14 11:04:36,728 - INFO - Starting training for 10 iterations
+2025-03-14 11:04:36,728 - INFO - Self-play games per iteration: 5000
+2025-03-14 11:04:36,728 - INFO - Training epochs per iteration: 100
+2025-03-14 11:04:36,728 - INFO - Evaluation games per iteration: 100
+2025-03-14 11:04:36,728 - INFO - Starting AlphaZero training for 10 iterations
+2025-03-14 11:04:36,728 - INFO - No existing model found, starting with a new model
+2025-03-14 11:04:36,728 - INFO - Starting iteration 1 at 20250314_110436
+2025-03-14 11:04:36,728 - INFO - Starting self-play for 5000 games
+2025-03-14 11:04:36,728 - INFO - Pipeline components initialized
+2025-03-14 11:04:36,728 - INFO - Generating 5000 self-play games...
+2025-03-14 11:05:26,571 - DEBUG - matplotlib data path: /Users/mikey/Ramdon Projects/xiangqi-ai/.conda/lib/python3.11/site-packages/matplotlib/mpl-data
+2025-03-14 11:05:26,576 - DEBUG - CONFIGDIR=/Users/mikey/.matplotlib
+2025-03-14 11:05:26,577 - DEBUG - interactive is False
+2025-03-14 11:05:26,577 - DEBUG - platform is darwin
+2025-03-14 11:05:26,599 - DEBUG - CACHEDIR=/Users/mikey/.matplotlib
+2025-03-14 11:05:26,600 - DEBUG - Using fontManager instance from /Users/mikey/.matplotlib/fontlist-v390.json
+2025-03-14 11:05:26,713 - INFO - PyTorch device available: cpu
+2025-03-14 11:05:27,266 - INFO - AlphaZero pipeline initialized
+2025-03-14 11:05:27,266 - INFO - Starting training for 10 iterations
+2025-03-14 11:05:27,266 - INFO - Self-play games per iteration: 5000
+2025-03-14 11:05:27,266 - INFO - Training epochs per iteration: 100
+2025-03-14 11:05:27,266 - INFO - Evaluation games per iteration: 100
+2025-03-14 11:05:27,266 - INFO - Starting AlphaZero training for 10 iterations
+2025-03-14 11:05:27,266 - INFO - No existing model found, starting with a new model
+2025-03-14 11:05:27,266 - INFO - Starting iteration 1 at 20250314_110527
+2025-03-14 11:05:27,266 - INFO - Starting self-play for 5000 games
+2025-03-14 11:05:27,266 - INFO - Pipeline components initialized
+2025-03-14 11:05:27,266 - INFO - Generating 5000 self-play games...
+2025-03-14 11:07:06,778 - DEBUG - matplotlib data path: /Users/mikey/Ramdon Projects/xiangqi-ai/.conda/lib/python3.11/site-packages/matplotlib/mpl-data
+2025-03-14 11:07:06,782 - DEBUG - CONFIGDIR=/Users/mikey/.matplotlib
+2025-03-14 11:07:06,783 - DEBUG - interactive is False
+2025-03-14 11:07:06,783 - DEBUG - platform is darwin
+2025-03-14 11:07:06,805 - DEBUG - CACHEDIR=/Users/mikey/.matplotlib
+2025-03-14 11:07:06,806 - DEBUG - Using fontManager instance from /Users/mikey/.matplotlib/fontlist-v390.json
+2025-03-14 11:07:06,917 - INFO - PyTorch device available: cpu
+2025-03-14 11:07:07,489 - INFO - AlphaZero pipeline initialized
+2025-03-14 11:07:07,489 - INFO - Starting training for 10 iterations
+2025-03-14 11:07:07,489 - INFO - Self-play games per iteration: 5000
+2025-03-14 11:07:07,489 - INFO - Training epochs per iteration: 100
+2025-03-14 11:07:07,489 - INFO - Evaluation games per iteration: 100
+2025-03-14 11:07:07,489 - INFO - Starting AlphaZero training for 10 iterations
+2025-03-14 11:07:07,490 - INFO - No existing model found, starting with a new model
+2025-03-14 11:07:07,490 - INFO - Starting iteration 1 at 20250314_110707
+2025-03-14 11:07:07,490 - INFO - Starting self-play for 5000 games
+2025-03-14 11:07:07,490 - INFO - Pipeline components initialized
+2025-03-14 11:07:07,490 - INFO - Generating 5000 self-play games...
+2025-03-14 11:07:57,353 - DEBUG - matplotlib data path: /Users/mikey/Ramdon Projects/xiangqi-ai/.conda/lib/python3.11/site-packages/matplotlib/mpl-data
+2025-03-14 11:07:57,358 - DEBUG - CONFIGDIR=/Users/mikey/.matplotlib
+2025-03-14 11:07:57,358 - DEBUG - interactive is False
+2025-03-14 11:07:57,358 - DEBUG - platform is darwin
+2025-03-14 11:07:57,381 - DEBUG - CACHEDIR=/Users/mikey/.matplotlib
+2025-03-14 11:07:57,382 - DEBUG - Using fontManager instance from /Users/mikey/.matplotlib/fontlist-v390.json
+2025-03-14 11:07:57,498 - INFO - PyTorch device available: cpu
+2025-03-14 11:07:58,068 - INFO - AlphaZero pipeline initialized
+2025-03-14 11:07:58,068 - INFO - Starting training for 1 iterations
+2025-03-14 11:07:58,068 - INFO - Self-play games per iteration: 5000
+2025-03-14 11:07:58,068 - INFO - Training epochs per iteration: 100
+2025-03-14 11:07:58,068 - INFO - Evaluation games per iteration: 100
+2025-03-14 11:07:58,068 - INFO - Starting AlphaZero training for 1 iterations
+2025-03-14 11:07:58,068 - INFO - No existing model found, starting with a new model
+2025-03-14 11:07:58,068 - INFO - Starting iteration 1 at 20250314_110758
+2025-03-14 11:07:58,068 - INFO - Starting self-play for 5000 games
+2025-03-14 11:07:58,068 - INFO - Pipeline components initialized
+2025-03-14 11:07:58,068 - INFO - Generating 5000 self-play games...
+2025-03-14 11:08:35,480 - DEBUG - matplotlib data path: /Users/mikey/Ramdon Projects/xiangqi-ai/.conda/lib/python3.11/site-packages/matplotlib/mpl-data
+2025-03-14 11:08:35,485 - DEBUG - CONFIGDIR=/Users/mikey/.matplotlib
+2025-03-14 11:08:35,486 - DEBUG - interactive is False
+2025-03-14 11:08:35,486 - DEBUG - platform is darwin
+2025-03-14 11:08:35,508 - DEBUG - CACHEDIR=/Users/mikey/.matplotlib
+2025-03-14 11:08:35,509 - DEBUG - Using fontManager instance from /Users/mikey/.matplotlib/fontlist-v390.json
+2025-03-14 11:08:35,624 - INFO - PyTorch device available: cpu
+2025-03-14 11:08:36,226 - INFO - AlphaZero pipeline initialized
+2025-03-14 11:08:36,226 - INFO - Starting training for 1 iterations
+2025-03-14 11:08:36,226 - INFO - Self-play games per iteration: 5000
+2025-03-14 11:08:36,226 - INFO - Training epochs per iteration: 100
+2025-03-14 11:08:36,226 - INFO - Evaluation games per iteration: 100
+2025-03-14 11:08:36,226 - INFO - Starting AlphaZero training for 1 iterations
+2025-03-14 11:08:36,226 - INFO - No existing model found, starting with a new model
+2025-03-14 11:08:36,226 - INFO - Starting iteration 1 at 20250314_110836
+2025-03-14 11:08:36,226 - INFO - Starting self-play for 5000 games
+2025-03-14 11:08:36,226 - INFO - Pipeline components initialized
+2025-03-14 11:08:36,226 - INFO - Generating 5000 self-play games...
+2025-03-14 11:09:32,713 - DEBUG - matplotlib data path: /Users/mikey/Ramdon Projects/xiangqi-ai/.conda/lib/python3.11/site-packages/matplotlib/mpl-data
+2025-03-14 11:09:32,718 - DEBUG - CONFIGDIR=/Users/mikey/.matplotlib
+2025-03-14 11:09:32,719 - DEBUG - interactive is False
+2025-03-14 11:09:32,719 - DEBUG - platform is darwin
+2025-03-14 11:09:32,741 - DEBUG - CACHEDIR=/Users/mikey/.matplotlib
+2025-03-14 11:09:32,743 - DEBUG - Using fontManager instance from /Users/mikey/.matplotlib/fontlist-v390.json
+2025-03-14 11:09:32,863 - INFO - PyTorch device available: cpu
+2025-03-14 11:09:33,466 - INFO - AlphaZero pipeline initialized
+2025-03-14 11:09:33,466 - INFO - Starting training for 1 iterations
+2025-03-14 11:09:33,467 - INFO - Self-play games per iteration: 5000
+2025-03-14 11:09:33,467 - INFO - Training epochs per iteration: 100
+2025-03-14 11:09:33,467 - INFO - Evaluation games per iteration: 100
+2025-03-14 11:09:33,467 - INFO - Starting AlphaZero training for 1 iterations
+2025-03-14 11:09:33,467 - INFO - No existing model found, starting with a new model
+2025-03-14 11:09:33,467 - INFO - Starting iteration 1 at 20250314_110933
+2025-03-14 11:09:33,467 - INFO - Starting self-play for 5000 games
+2025-03-14 11:09:33,467 - INFO - Pipeline components initialized
+2025-03-14 11:09:33,467 - INFO - Generating 5000 self-play games...
